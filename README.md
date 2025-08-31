@@ -47,7 +47,7 @@ py -m pip install -U spacy gradio pandas
 py -m spacy download pl_core_news_md
 
 # 4) Uruchom aplikację
-py app_gradio_career_advisor.py
+py AI-carieer-advisor.py
 
 
 # =========================================
@@ -65,7 +65,7 @@ python3 -m pip install -U spacy gradio pandas
 python3 -m spacy download pl_core_news_md
 
 # 4) Uruchom aplikację
-python3 app_gradio_career_advisor.py
+python3 AI-carieer-advisor.py
 
 
 # =========================================
@@ -79,7 +79,7 @@ python3 app_gradio_career_advisor.py
 pip install -r requirements.txt
 python -m spacy download pl_core_news_md
 # Start:
-python app_gradio_career_advisor.py     # albo na Windows: py app_gradio_career_advisor.py
+python AI-carieer-advisorr.py     # albo na Windows: py AI-carieer-advisor.py
 ```
 
 Po starcie w konsoli pojawi się adres, np. `http://127.0.0.1:7860`. Otwórz go w przeglądarce.
