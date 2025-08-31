@@ -146,7 +146,7 @@ python -c "import sys; print(sys.executable)"
 
 ```
 .
-├─ app_gradio_career_advisor.py   # główny skrypt
+├─ AI-carieer-advisor.py   # główny skrypt
 ├─ requirements.txt               # opcjonalne: zależności
 └─ README.md                      # ten plik
 ```
