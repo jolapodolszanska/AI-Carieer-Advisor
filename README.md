@@ -25,6 +25,8 @@ Wykorzystujemy **polski model spaCy**:
 
 **Wymagania**: Python 3.9+ (Windows/macOS/Linux) oraz dostęp do internetu przy pierwszym pobraniu modelu spaCy. Rekomendowane jest wirtualne środowisko `venv`.
 
+<img src="https://github.com/jolapodolszanska/AI-Carieer-Advisor/blob/main/gui.png?raw=true" width="1000">
+
 ---
 
 ## Instalacja i uruchomienie
@@ -154,3 +156,6 @@ python -c "import sys; print(sys.executable)"
 ## Licencja
 
 Dodaj wybraną licencję (np. MIT / Apache-2.0).
+
+
+
