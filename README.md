@@ -17,7 +17,7 @@
 ---
 
 ## Opis
-Projekt to pojedynczy skrypt – np. `app_gradio_career_advisor.py` – uruchamiany lokalnie. Po wpisaniu zainteresowań (np. „analiza danych, Python, statystyka") aplikacja oblicza podobieństwo semantyczne względem opisów zawodów i pokazuje najlepiej dopasowane propozycje.
+Projekt to pojedynczy skrypt – np. `AI-carieer-advisor.py` – uruchamiany lokalnie. Po wpisaniu zainteresowań (np. „analiza danych, Python, statystyka") aplikacja oblicza podobieństwo semantyczne względem opisów zawodów i pokazuje najlepiej dopasowane propozycje.
 
 Wykorzystujemy **polski model spaCy**:
 - Zalecany: `pl_core_news_md` (zawiera wektory → lepsze dopasowania).
